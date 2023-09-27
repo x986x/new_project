@@ -12,8 +12,6 @@ def capitalize_words(input_string):
 def main():
     result = capitalize_words(input_string)
     print(result)
-
-
+    
 if __name__ == "__main__":
     main()
-    #пишу типо я второй пользователь на гитхаб
