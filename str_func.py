@@ -4,7 +4,6 @@ def capital_letters(input_string):
 input_string = input()
 result = capital_letters(input_string)
 print(result)
-print(result)
 
 def capitalize_words(input_string):
     words = input_string.split()
